@@ -2,9 +2,9 @@
 ## 📫 How to reach me:
 - **Email**: sevenpaape832@gmail.com
 
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=SowingG2333&amp;show_icons=true&amp;theme=tokyonight)
+<img   align="center" src="https://github-readme-stats.vercel.app/api?username=SowingG2333&locale=ja&line_height=33&show_icons=true&hide=&theme=&rank_icon=default"/>
 
-![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=SowingG2333&amp;layout=compact&amp;theme=tokyonight)
+<img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SowingG2333&locale=ja&line_height=33&theme=&langs_count=5"/>
 
 ## 🛠 Technologies & Tools
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
