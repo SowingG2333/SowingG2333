@@ -14,4 +14,4 @@
 ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
 
-![Visitor Count](https://profile-counter.glitch.me/{SowingG2333}/count.svg)
+YOU ARE THE NO.![Visitor Count](https://profile-counter.glitch.me/{SowingG2333}/count.svg) VISITOR
