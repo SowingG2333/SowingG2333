@@ -4,8 +4,6 @@
 
 <img   align="center" src="https://github-readme-stats.vercel.app/api?username=SowingG2333&locale=ja&line_height=33&show_icons=true&hide=&theme=&rank_icon=default"/>
 
-<img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SowingG2333&locale=ja&line_height=33&theme=&langs_count=5"/>
-
 ## 🛠 Technologies & Tools
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
