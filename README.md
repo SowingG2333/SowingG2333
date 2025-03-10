@@ -1,9 +1,6 @@
 ## 👋 Hi, I’m @SowingG2333
 ## 📫 How to reach me:
 - **Email**: sevenpaape832@gmail.com
-
-<img   align="center" src="https://github-readme-stats.vercel.app/api?username=SowingG2333&locale=ja&line_height=33&show_icons=true&hide=&theme=&rank_icon=default"/>
-
 ## 🛠 Technologies & Tools
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
