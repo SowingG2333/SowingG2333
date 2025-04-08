@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @SowingG2333
 ## 📫 How to reach me:
-- **Email**: sevenpaape832@gmail.com
+- **Email**: donghangduan@gmail.com
 ## 🛠 Technologies & Tools
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
