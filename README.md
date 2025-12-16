@@ -30,11 +30,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SowingG2333&layout=compact&langs_count=7"/>
 
 </div>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Activity
-
-<div align="left">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SowingG2333" alt="SowingG2333's streak"/>
-
-</div>
