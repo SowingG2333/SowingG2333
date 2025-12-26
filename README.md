@@ -24,9 +24,11 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Stats
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Stats
+
 <div align="left">
 
-  <img height="180em" src="https://github-readme-stats-phi-woad-74.vercel.app/api?username=SowingG2333&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-phi-woad-74.vercel.app/api/top-langs/?username=SowingG2333&layout=compact&langs_count=7"/>
+  <img height="180em" src="https://github-readme-stats-sigma-three-92.vercel.app/api?username=SowingG2333&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-sigma-three-92.vercel.app/api/top-langs/?username=SowingG2333&layout=compact&langs_count=7&theme=radical"/>
 
 </div>
