@@ -50,16 +50,16 @@
 <p align="left">
   <img 
     src="https://github-readme-stats-sigma-three-92.vercel.app/api?username=SowingG2333&show_icons=true&theme=default&border_radius=14&hide_border=false" 
-    height="175" 
+    height="180" 
   />
   <img 
     src="https://github-readme-stats-sigma-three-92.vercel.app/api/top-langs/?username=SowingG2333&layout=compact&theme=default&border_radius=14&hide_border=false" 
-    height="175" 
+    height="180" 
   />
 </p>
 <p align="left">
   <img
-    width="92%"
+    width="92.5%"
     src="https://github-readme-activity-graph.vercel.app/graph?username=SowingG2333&theme=github-light&hide_border=true&bg_color=FFFFFF&color=0969DA&line=0969DA&point=8C959F"
   />
 </p>
