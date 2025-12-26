@@ -9,13 +9,9 @@
   <img src="https://img.shields.io/github/followers/SowingG2333?label=Followers&style=flat&logo=github" />
   <a href="https://sowingg2333.github.io">
     <img src="https://img.shields.io/badge/Blog-SowingG2333-0A66C2?style=flat&logo=google-chrome&logoColor=white" />
-  </a>
   <a href="mailto:donghangduan@gmail.com">
     <img src="https://img.shields.io/badge/Email-donghangduan%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
     <img src="https://komarev.com/ghpvc/?username=SowingG2333&label=Profile%20Views&color=0E75B6&style=flat" />
-</p>
-
 </p>
 
 ## 🔬 Research Interests
