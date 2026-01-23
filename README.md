@@ -21,8 +21,7 @@
 ## 🔬 Research Interests
 
 - **Safety and Alignment of Large Language Models**
-- **Privacy-Preserving Machine Learning** 
-- **Robust Federated Learning**
+- **Privacy-Preserving / Trustworthy Machine Learning** 
 
 ## 🛠️ Technical Stack
 
