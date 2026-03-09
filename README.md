@@ -1,65 +1,58 @@
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=720&lines=Hello+World%2C+I%27m+SowingG2333"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=3E6B5A&center=true&vCenter=true&width=900&lines=SowingG2333;Undergraduate+in+Computer+Science;LLM+Safety+%7C+Privacy-Preserving+Machine+Learning"
     alt="Typing SVG"
   />
 </div>
 
 <p align="center">
-  <a href="https://github.com/SowingG2333">
-    <img src="https://img.shields.io/github/followers/SowingG2333?label=Followers&style=flat&logo=github" />
-  </a>
   <a href="https://sowingg.space">
-    <img src="https://img.shields.io/badge/Personal%20Page-Visit-0A66C2?style=flat&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Personal%20Page-sowingg.space-3E6B5A?style=flat&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/SowingG2333">
+    <img src="https://img.shields.io/badge/GitHub-SowingG2333-24292F?style=flat&logo=github&logoColor=white" />
   </a>
   <a href="mailto:donghangduan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-donghangduan%40gmail.com-BB5A3C?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=SowingG2333&label=Profile%20Views&color=0E75B6&style=flat" />
 </p>
 
-## 🔬 Research Interests
+## Research Interests
 
-- **Safety and Alignment of Large Language Models**
-- **Privacy-Preserving / Trustworthy Machine Learning** 
+- LLM Safety and Alignment
+- Privacy-Preserving / Trustworthy Machine Learning
+- Federated Learning and Secure AI Systems
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/python/3776AB" width="38" title="Python"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/c/00599C" width="38" title="C"/>&nbsp;
   <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="38" title="PyTorch"/>&nbsp;
   <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="38" title="HuggingFace"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/weightsandbiases/FFBE00" width="38" title="Weights & Biases"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/numpy/013243" width="38" title="NumPy"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/pandas/150458" width="38" title="Pandas"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/linux/FCC624" width="38" title="Linux"/>&nbsp;
   <img src="https://cdn.simpleicons.org/docker/2496ED" width="38" title="Docker"/>&nbsp;
   <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="38" title="Kubernetes"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/linux/FCC624" width="38" title="Linux"/>&nbsp;
   <img src="https://cdn.simpleicons.org/git/F05032" width="38" title="Git"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="38" title="VS Code"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/gnubash" width="38" title="Bash / Shell"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" title="JavaScript"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="38" title="LaTeX"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/markdown/000000" width="38" title="Markdown"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="38" title="JavaScript"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/latex/008080" width="38" title="LaTeX"/>
 </p>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="left">
   <img 
-    src="https://github-readme-stats-sigma-three-92.vercel.app/api?username=SowingG2333&show_icons=true&theme=default&border_radius=14&hide_border=false" 
+    src="https://github-readme-stats-sigma-three-92.vercel.app/api?username=SowingG2333&show_icons=true&theme=default&border_radius=14&hide_border=false&title_color=3E6B5A&icon_color=3E6B5A&text_color=4B5563" 
     height="180" 
   />
   <img 
-    src="https://github-readme-stats-sigma-three-92.vercel.app/api/top-langs/?username=SowingG2333&layout=compact&theme=default&border_radius=14&hide_border=false" 
+    src="https://github-readme-stats-sigma-three-92.vercel.app/api/top-langs/?username=SowingG2333&layout=compact&theme=default&border_radius=14&hide_border=false&title_color=3E6B5A&text_color=4B5563" 
     height="180" 
   />
 </p>
+
 <p align="left">
   <img
     width="92.5%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SowingG2333&theme=github-light&hide_border=true&bg_color=FFFFFF&color=0969DA&line=0969DA&point=8C959F"
+    src="https://YOUR-ACTIVITY-GRAPH-DOMAIN/graph?username=SowingG2333&theme=github-light&hide_border=true&bg_color=FFFFFF&color=3E6B5A&line=3E6B5A&point=8C959F"
   />
 </p>
-
