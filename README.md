@@ -9,8 +9,8 @@
   <a href="https://github.com/SowingG2333">
     <img src="https://img.shields.io/github/followers/SowingG2333?label=Followers&style=flat&logo=github" />
   </a>
-  <a href="https://sowingg2333.github.io">
-    <img src="https://img.shields.io/badge/Academic%20Page-Visit-0A66C2?style=flat&logo=google-chrome&logoColor=white" />
+  <a href="https://sowingg.space">
+    <img src="https://img.shields.io/badge/Personal%20Page-Visit-0A66C2?style=flat&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:donghangduan@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" />
