@@ -19,8 +19,8 @@
 
 ## Research Interests
 
-- LLM Safety and Alignment
-- Privacy-Preserving Machine Learning
+- **LLM Safety and Alignment**
+- **Privacy-Preserving Machine Learning**
 
 ## GitHub Analytics
 
@@ -34,4 +34,3 @@
     height="180" 
   />
 </p>
-<p align="left"> <img width="92.5%" src="https://github-readme-activity-graph.vercel.app/graph?username=SowingG2333&theme=github-light&hide_border=true&bg_color=FFFFFF&color=0969DA&line=0969DA&point=8C959F" /> </p>
