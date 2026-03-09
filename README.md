@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=3E6B5A&center=true&vCenter=true&width=900&lines=SowingG2333;Undergraduate+in+Computer+Science;LLM+Safety+%7C+Privacy-Preserving+Machine+Learning"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=3E6B5A&center=true&vCenter=true&width=900&lines=Hello, I'm SowingG2333!"
     alt="Typing SVG"
   />
 </div>
@@ -20,22 +20,7 @@
 ## Research Interests
 
 - LLM Safety and Alignment
-- Privacy-Preserving / Trustworthy Machine Learning
-- Federated Learning and Secure AI Systems
-
-## Technical Stack
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="38" title="Python"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="38" title="PyTorch"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="38" title="HuggingFace"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="38" title="Docker"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="38" title="Kubernetes"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/linux/FCC624" width="38" title="Linux"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/git/F05032" width="38" title="Git"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="38" title="JavaScript"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/latex/008080" width="38" title="LaTeX"/>
-</p>
+- Privacy-Preserving Machine Learning
 
 ## GitHub Analytics
 
@@ -49,6 +34,7 @@
     height="180" 
   />
 </p>
+<p align="left"> <img width="92.5%" src="https://github-readme-activity-graph.vercel.app/graph?username=SowingG2333&theme=github-light&hide_border=true&bg_color=FFFFFF&color=0969DA&line=0969DA&point=8C959F" /> </p>
 
 <p align="left">
   <img
