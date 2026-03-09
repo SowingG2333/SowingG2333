@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=3E6B5A&center=true&vCenter=true&width=900&lines=Hello, I'm SowingG2333!"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=3E6B5A&center=true&vCenter=true&width=900&lines=Hello+I'm+SowingG2333"
     alt="Typing SVG"
   />
 </div>
@@ -34,8 +34,6 @@
     height="180" 
   />
 </p>
-<p align="left"> <img width="92.5%" src="https://github-readme-activity-graph.vercel.app/graph?username=SowingG2333&theme=github-light&hide_border=true&bg_color=FFFFFF&color=0969DA&line=0969DA&point=8C959F" /> </p>
-
 <p align="left">
   <img
     width="92.5%"
