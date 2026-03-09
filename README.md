@@ -17,12 +17,12 @@
   </a>
 </p>
 
-## Research Interests
+## 🧐 Research Interests
 
 - **LLM Safety and Alignment**
 - **Privacy-Preserving Machine Learning**
 
-## GitHub Analytics
+## 📉 GitHub Analytics
 
 <p align="left">
   <img 
