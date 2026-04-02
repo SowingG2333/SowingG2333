@@ -20,6 +20,7 @@
 ## 🧐 Research Interests
 
 - **LLM Safety and Alignment**
+- **Agent Security**
 - **Privacy-Preserving Machine Learning**
 
 ## 📉 GitHub Analytics
