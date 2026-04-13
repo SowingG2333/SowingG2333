@@ -21,7 +21,7 @@
 
 - **LLM Safety and Alignment**
 - **Agent Security**
-- **Privacy-Preserving Machine Learning**
+- **Trustworthy Machine Learning**
 
 ## 📉 GitHub Analytics
 
