@@ -19,11 +19,11 @@
 
 ## 💫 About Me
 
-- 🎓 I'm an undergraduate studying at @UESTC
+- 🎓 I'm an undergraduate studying @UESTC
 
 ## 🧐 Research Interests
 
-- **LLM Safety and Alignment:** Privacy for LLMs, Safety Alignment, Jailbreak Attacks, etc.
+- **LLM Safety and Alignment:** Privacy for LLMs, Safety Alignment, Jailbreak Attack, etc.
 - **Agent Security:** Prompt Injection Attack/Defense, Backdoor Attack, RAG Poisoning, etc.
 - **Trustworthy Machine Learning:** Federated Learning, Differential Privacy enabled ML, Machine Unlearning, etc.
 
