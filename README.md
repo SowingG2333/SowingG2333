@@ -1,31 +1,4 @@
-<div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=3E6B5A&center=true&vCenter=true&width=900&lines=Hello+I'm+SowingG2333"
-    alt="Typing SVG"
-  />
-</div>
-
-<p align="center">
-  <a href="https://sowingg.space">
-    <img src="https://img.shields.io/badge/Personal%20Page-sowingg.space-3E6B5A?style=flat&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/SowingG2333">
-    <img src="https://img.shields.io/badge/GitHub-SowingG2333-24292F?style=flat&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:donghangduan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-donghangduan%40gmail.com-BB5A3C?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-## 💫 About Me
-
-- 🎓 I'm an undergraduate studying **@UESTC**
-
-## 🧐 Research Interests
-
-- **LLM Safety and Alignment**
-- **Agent Security**
-- **Trustworthy Machine Learning**
+# 👋 Hello, I'm SowingG2333!
 
 ## 🛠️ Tech Stack
 
