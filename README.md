@@ -1,4 +1,4 @@
-# 👋 Hello, I'm SowingG2333! <img src="https://img.shields.io/badge/Homepage-24292F?style=flat-square&logo=googlechrome&logoColor=white" alt="Homepage"/>
+# 👋 Hello, I'm SowingG2333! [![Homepage](https://img.shields.io/badge/Homepage-24292F?style=flat-square&logo=googlechrome&logoColor=white)](https://sowingg2333.github.io/)
 
 ## 🛠️ Tech Stack
 
